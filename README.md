@@ -23,6 +23,7 @@ This repository documents my step-by-step learning journey in cybersecurity. It 
 ---
 
 ## 🧠 Skills Gained (Ongoing)
+- Intro to offensive security
 - Networking fundamentals (TCP/IP, DNS, OSI Model)
 - Linux basics and command line usage
 - Security principles and threat awareness
