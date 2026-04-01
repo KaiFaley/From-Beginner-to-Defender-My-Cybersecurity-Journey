@@ -1,5 +1,5 @@
 🤔 Why The Focus on Offensive Security?
 --
---
+
 With a focus on Offensive Security, I replicate hacker techniques to identify critical gaps, enabling organizations to stay ahead
 of cyber threats and safeguard their assets.
